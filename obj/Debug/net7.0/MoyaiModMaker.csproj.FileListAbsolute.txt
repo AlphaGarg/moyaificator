@@ -1,0 +1,15 @@
+C:\Work\Coding\MoyaiModMaker\obj\Debug\net7.0\MoyaiModMaker.csproj.AssemblyReference.cache
+C:\Work\Coding\MoyaiModMaker\obj\Debug\net7.0\MoyaiModMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Coding\MoyaiModMaker\obj\Debug\net7.0\MoyaiModMaker.AssemblyInfoInputs.cache
+C:\Work\Coding\MoyaiModMaker\obj\Debug\net7.0\MoyaiModMaker.AssemblyInfo.cs
+C:\Work\Coding\MoyaiModMaker\obj\Debug\net7.0\MoyaiModMaker.csproj.CoreCompileInputs.cache
+C:\Work\Coding\MoyaiModMaker\bin\Debug\net7.0\MoyaiModMaker.exe
+C:\Work\Coding\MoyaiModMaker\bin\Debug\net7.0\MoyaiModMaker.deps.json
+C:\Work\Coding\MoyaiModMaker\bin\Debug\net7.0\MoyaiModMaker.runtimeconfig.json
+C:\Work\Coding\MoyaiModMaker\bin\Debug\net7.0\MoyaiModMaker.dll
+C:\Work\Coding\MoyaiModMaker\bin\Debug\net7.0\MoyaiModMaker.pdb
+C:\Work\Coding\MoyaiModMaker\obj\Debug\net7.0\MoyaiModMaker.dll
+C:\Work\Coding\MoyaiModMaker\obj\Debug\net7.0\refint\MoyaiModMaker.dll
+C:\Work\Coding\MoyaiModMaker\obj\Debug\net7.0\MoyaiModMaker.pdb
+C:\Work\Coding\MoyaiModMaker\obj\Debug\net7.0\MoyaiModMaker.genruntimeconfig.cache
+C:\Work\Coding\MoyaiModMaker\obj\Debug\net7.0\ref\MoyaiModMaker.dll
